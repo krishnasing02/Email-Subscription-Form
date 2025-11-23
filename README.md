@@ -1,0 +1,2 @@
+# Email-Subscription-Form
+A simple email subscription form built using HTML, CSS, and JavaScript, where users enter their email to subscribe and the submission is sent directly to a connected Google Form. The form validates user input, sends the data to the Google Form’s POST endpoint, and stores all entries in the linked Google Sheet—letting me collect subscriber emails without any backend server. This project demonstrates a lightweight front-end solution for capturing user information using only web basics and Google’s form infrastructure.
